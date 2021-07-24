@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+#忽略掉所有苹果自带的.DS_Store文件
+
+*.DS_Store
+
+#忽略vscode自带配置文件
+*.vscode
